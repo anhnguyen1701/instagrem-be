@@ -1,0 +1,8 @@
+mongodb:
+  host: localhost
+  port: 27017
+  database: instagrem
+server:
+  port: 9000
+logging:
+  level.org.springframework: DEBUG
